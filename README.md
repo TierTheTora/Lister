@@ -1,8 +1,7 @@
 # Lister
 
-*Lister is currently only supported on Windows.*\n
-[WEBSITE](https://tier.game-cave.net/lister/Lister.html)\n
-Lister is a Windows Forms application that allows users to create a list of items. Users can add new items, reset the list, and save it to a file.
+*Lister is currently only supported on Windows.*
+Lister is a Windows Forms application that allows users to create a list of items. Users can add new items, reset the list, and save it to a file. [WEBSITE](https://tier.game-cave.net/lister/Lister.html)
 
 ## Features
 
