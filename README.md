@@ -10,7 +10,7 @@ Lister is a Windows Forms application that allows users to create a list of item
 - **Reset List:** Users can reset the list, removing all data and items.
 - **Language Support:** The application supports multiple languages, including English, Japanese, Chinese (Simplified and Traditional), German, French, and Spanish.
 - **Disallow Empty Text:** Users can check the "Disallow empty text" option to prevent adding blank entries.
-- **Saving Language** The application saves the current language, restoring them when the application is restarted.
+- **Saving Language:** The application saves the current language, restoring them when the application is restarted.
 
 ## Usage
 
