@@ -25,3 +25,7 @@ Lister is a Windows Forms application that allows users to create a list of item
 - **`New List.txt`:** The saved list file.
 - **`Language.txt`:** The file that stores the selected language.
 - **`Lister.exe`:** The executable for the application.
+
+## Lisence
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
