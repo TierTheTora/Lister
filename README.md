@@ -29,11 +29,11 @@ Lister is a Windows Forms application that allows users to create a list of item
 - **[Form.h](./main/Form.h):** The main file for the looks of the window.
 - **[Resource.rc](./main/Resource.rc):** The file for defining the icon.
 - **[resource.h](./main/resource.h):** Defines unique identifiers for resources.
-- **[Lister.ico](./main/Lister.ico):** Icon for the Lister application.
+- **[Lister.ico](./main/x64/Release/Lister.ico):** Icon for the Lister application.
 
 ## Download
 
-Visit the [WEBSITE](https://tier.game-cave.net/lister/Lister.html) or [Download from Github](./Download/Release)
+Visit the [WEBSITE](https://tier.game-cave.net/lister/Lister.html) or [Download from Github](./Download/Releases)
 
 ## License
 
