@@ -1,7 +1,7 @@
 # Lister
 
 *Lister is currently only supported on Windows.*
-Lister is a Windows Forms application that allows users to create a list of items. Users can add new items, reset the list, and save it to a file. [WEBSITE](https://tier.game-cave.net/lister/Lister.html)
+Lister is a Windows Forms application that allows users to create a list of items. Users can add new items, reset the list, and save it to a file. 
 
 ## Features
 
@@ -22,14 +22,18 @@ Lister is a Windows Forms application that allows users to create a list of item
 
 ## Files
 
-- **`[New List.txt](./main/New%20List.txt)`** : The saved list file.
-- **`Language.txt`:** The file that stores the selected language.
-- **`Lister.exe`:** The executable for the application.
-- **`Form.cpp`:** Launches a Windows Forms app with a main window.
-- **`Form.h`:** The main file for the looks of the window.
-- **`Resource.rc`:** The file for defining the icon.
-- **`resource.h`:** Defines unique identifiers for resources.
-- **`Lister.ico`:** Icon for the Lister application.
+- **[New List.txt](./main/New%20List.txt):** The saved list file.
+- **[Language.txt](./main/Language.txt):** The file that stores the selected language.
+- **[Lister.exe](./main/Lister.exe):** The executable for the application.
+- **[Form.cpp](./main/Form.cpp):** Launches a Windows Forms app with a main window.
+- **[Form.h](./main/Form.h):** The main file for the looks of the window.
+- **[Resource.rc](./main/Resource.rc):** The file for defining the icon.
+- **[resource.h](./main/resource.h):** Defines unique identifiers for resources.
+- **[Lister.ico](./main/Lister.ico):** Icon for the Lister application.
+
+## Download
+
+Visit the [WEBSITE](https://tier.game-cave.net/lister/Lister.html) or [Download from Github](./Download/Release)
 
 ## License
 
