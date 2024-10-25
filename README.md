@@ -31,7 +31,7 @@ Lister is a Windows Forms application that allows users to create a list of item
 - **`resource.h`:** Defines unique identifiers for resources.
 - **`Lister.ico`:** Icon for the Lister application.
 
-[New List.txt](./main/New-List.txt)
+[New List.txt](./main/New%20List.txt)
 
 ## License
 
